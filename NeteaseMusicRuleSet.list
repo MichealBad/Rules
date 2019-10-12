@@ -1,0 +1,5 @@
+// NeteaseMusic rules
+USER-AGENT,NeteaseMusic**
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,163.com
+USER-AGENT,NeteaseMusic*
